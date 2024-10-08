@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
  *
  * @author lucas
  */
-public class Exercicio_25 {
+public class Exercicio25 {
 
     public static void main(String[] args) {
         int qtde=20;
